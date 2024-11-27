@@ -212,6 +212,10 @@ This architecture enables scalability, independent deployment, and robust team c
 
 Implementing a micro frontend architecture is increasingly essential for large-scale enterprises aiming to enhance scalability, maintainability, and team autonomy in their web applications. This approach involves decomposing a monolithic frontend into smaller, independently deployable modules, each managed by different teams. Recent trends and advancements have further refined this architecture, making it more accessible and efficient.
 
+
+**Current trends:**
+
+
 **1. Architectural Overview**
 
 **Goals:**
